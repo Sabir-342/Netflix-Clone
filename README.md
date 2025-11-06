@@ -30,7 +30,9 @@ I'm a learner and budding developer who enjoys building simple and clean web pro
 ### 🤝 Let's Connect
 
 * GitHub: *(Add your GitHub link here)*
-* LinkedIn: *(Optional)*
+* LinkedIn: *www.linkedin.com/in/
+sabir-ali-8734a7371
+*
 
 ---
 
