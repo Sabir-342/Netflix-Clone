@@ -15,7 +15,7 @@ body {
 }
 
 .main {
-    background-image: url("Assets/Images/bg.jpg");
+    background-image: url("assets/images/bg.jpg");
     height: 444px;
     background-position: center center;
     position: relative;
